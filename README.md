@@ -7,5 +7,7 @@ To learn about what the dozenal number system is, visit http://www.dozenal.org/,
 ```shell
 curl -O --location '/Library/Keyboard Layouts/' https://github.com/InnovativeInventor/Dozenal-Keyboard-Layout/raw/master/Files/Duodecimal.icns && curl -O --location '/Library/Keyboard Layouts/' https://github.com/InnovativeInventor/Dozenal-Keyboard-Layout/raw/master/Files/Duodecimal.keylayout
 ```
+2. Go to System Preferences > Keyboard > Input Sources and add Duodecimal as a keyboard layout.
+
 # Installation (Scripted)
 To be finished
