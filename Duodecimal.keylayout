@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!—-Created by the InnovativeInventor—->
+<!-- Created by the InnovativeInventor -->
 <keyboard group="126" id="-8269" name="Duodecimal" maxout="2">
 	<layouts>
 		<layout first="0" last="17" mapSet="16c" modifiers="f4"/>
