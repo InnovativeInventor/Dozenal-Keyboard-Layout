@@ -1,3 +1,4 @@
+#!/bin/bash
 echo Installing duodecimal keyboard layout . . .
 sudo curl -L https://github.com/InnovativeInventor/Dozenal-Keyboard-Layout/raw/master/Files/Duodecimal.keylayout -o "/Library/Keyboard Layouts/Duodecimal.keylayout"
 sudo curl -L https://github.com/InnovativeInventor/Dozenal-Keyboard-Layout/raw/master/Files/Duodecimal.icns -o "/Library/Keyboard Layouts/Duodecimal.icns"
