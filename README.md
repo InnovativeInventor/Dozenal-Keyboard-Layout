@@ -9,9 +9,6 @@ curl -O --location '/Library/Keyboard Layouts/' https://github.com/InnovativeInv
 ```
 2. Go to System Preferences > Keyboard > Input Sources and add Duodecimal as a keyboard layout.
 
-# Installation (Scripted)
-To be finished
-
 ### TODO:
 - make something for other OSes
 - improve the install script
