@@ -11,3 +11,7 @@ curl -O --location '/Library/Keyboard Layouts/' https://github.com/InnovativeInv
 
 # Installation (Scripted)
 To be finished
+
+### TODO:
+- make something for other OSes
+- improve the install script
